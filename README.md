@@ -32,8 +32,4 @@ environments, fostering environmentally conscious transportation solutions for t
 
 - sql/schema.sql: Contains the SQL schema for creating the necessary tables in the database.
 
-# How to Use
 
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yakshmakadia/escooter-dbms-project.git
